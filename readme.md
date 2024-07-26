@@ -44,6 +44,8 @@ As the world is seeking cleaner and more sustainable methods of energy productio
 
 ![Global Horizontal Irradiation Map - Nepal](./image_pv/GHI.jpg)
 
+Figure 1: Global Horizontal Irradiation Map - Nepal
+
 ### 3.2. Components of a Grid-Connected Solar PV System
 
 The basic unit of solar energy production is the solar cell. When multiple solar cells are combined and framed, they form a solar panel or module. These modules can be interconnected in series to form a string, and multiple strings can be connected in parallel to create a solar array. The connections in series or parallel determine the voltage, current, and overall power output of the system. The solar array produces direct current (DC) electricity, which must be converted to alternating current (AC) electricity for grid integration. We can achieve this conversion through a solar inverter. Modern inverters have advanced functionalities such as Maximum Power Point Tracking (MPPT), which optimizes the power output of the PV system by continuously adjusting the operating point of the modules. Modern inverters allow real-time tracking of energy production and system performance. Another essential component in a grid-connected PV system is the net meter. When the solar panels produce more electricity than is used, the excess is fed back into the grid, and the owner receives a credit.
@@ -54,6 +56,8 @@ The proposed solar photovoltaic (PV) power system includes several key component
 
 ![SLD](./image_pv/SLD.png)
 ![SLD](./image_pv/sldnaminf.png)
+
+Figure 2: Single Line Diagram
 
 ## 4. Methodology
 
@@ -139,11 +143,11 @@ Tilt and pitch optimization are crucial for maximizing the energy output of the 
 A performance evaluation of the solar PV system was conducted using PVSyst, which provided detailed insights into the system’s annual energy yield, performance ratio, and specific energy production. The performance ratio is a measure of the quality of a PV plant that is independent of location and is therefore often described as a quality factor. The performance ratio (PR) is stated as percent and describes the relationship between the actual and theoretical energy outputs of the PV plant. PR is found to be 70.09%. The total system production is 61,146 kWh/year. The specific energy production is 1194 kWh/kWp/year reflecting the effectiveness of the installed capacity.
 ![Performnce](./image_pv/PR.png)
 
-Figure: Performance Evaluation 
+`Figure 3: Performance Evaluation `
 
 ![ENergy](./image_pv/systemproduction.png)
 
-Figure: System Production 
+`Figure 4: System Production `
 
 
 ### 6.3. Loss Analysis
@@ -152,6 +156,7 @@ System efficiency is affected by various environmental factors. Hence, loss anal
 
 ![Losses](./image_pv/loss_diagram.png)
 
+`Figure 5: Overall Losses of the system` 
 
 ### 7.1. Simulation Results
 
