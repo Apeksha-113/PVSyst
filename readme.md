@@ -44,7 +44,7 @@ As the world is seeking cleaner and more sustainable methods of energy productio
 
 ![Global Horizontal Irradiation Map - Nepal](./image_pv/GHI.jpg)
 
-Figure 1: Global Horizontal Irradiation Map - Nepal
+`Figure 1: Global Horizontal Irradiation Map - Nepal`
 
 ### 3.2. Components of a Grid-Connected Solar PV System
 
@@ -54,10 +54,15 @@ The basic unit of solar energy production is the solar cell. When multiple solar
 
 The proposed solar photovoltaic (PV) power system includes several key components to ensure efficient operation. It features an array of solar PV panels, an inverter, electrical connections, a sturdy support framework, safety components, energy storage units, and decentralized control systems. The following diagram provides a visual representation of how these elements are arranged and interconnected within the system.
 
-![SLD](./image_pv/SLD.png)
-![SLD](./image_pv/sldnaminf.png)
+<p align="center">
+  <img src="./image_pv/SLD.png" alt="SLD" width="45%">
+  <img src="./image_pv/sldnaminf.png" alt="SLD" width="45%">
+</p>
 
-Figure 2: Single Line Diagram
+<p align="center">
+  <i>Figure 2: Single Line Diagram</i>
+</p>
+
 
 ## 4. Methodology
 
@@ -141,13 +146,16 @@ Tilt and pitch optimization are crucial for maximizing the energy output of the 
 ### 7.1. Performance Evaluation
 
 A performance evaluation of the solar PV system was conducted using PVSyst, which provided detailed insights into the system’s annual energy yield, performance ratio, and specific energy production. The performance ratio is a measure of the quality of a PV plant that is independent of location and is therefore often described as a quality factor. The performance ratio (PR) is stated as percent and describes the relationship between the actual and theoretical energy outputs of the PV plant. PR is found to be 70.09%. The total system production is 61,146 kWh/year. The specific energy production is 1194 kWh/kWp/year reflecting the effectiveness of the installed capacity.
-![Performnce](./image_pv/PR.png)
 
-`Figure 3: Performance Evaluation `
+<p align="center">
+  <img src="./image_pv/PR.png" alt="Performance" width="45%">
+  <img src="./image_pv/systemproduction.png" alt="Energy" width="45%">
+</p>
 
-![ENergy](./image_pv/systemproduction.png)
+<p align="center">
+  <i>Figure 3: Performance Evaluation</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Figure 4: System Production</i>
+</p>
 
-`Figure 4: System Production `
 
 
 ### 6.3. Loss Analysis
