@@ -79,6 +79,15 @@ Selection of solar PV plant sites requires careful consideration of several fact
 
 Meteorological data for this project was sourced from the Meteonorm 8.1 database, covering the years 1996 to 2015. The annual energy yield of a PV plant is heavily dependent on the solar resource of the site. In the absence of a dedicated weather station to obtain solar radiation data, information has been gathered from various sources, with a strong emphasis on data provided by the Global Solar Atlas.
 
+<p align="center">
+  <img src="./image_pv/meterological.png" alt="Losses" width="80%">
+</p>
+
+<p align="center">
+  <i>Figure 3: Site Info</i>
+</p>
+
+
 ### 4.3. Simulation Tools
 
 **PVSyst**: PVSyst is a software tool used for the design, simulation, and analysis of solar PV systems. It allows for the detailed modeling of various components and configurations of PV systems.
@@ -158,7 +167,7 @@ A performance evaluation of the solar PV system was conducted using PVSyst, whic
 </p>
 
 <p align="center">
-  <i>Figure 3: Performance Evaluation</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Figure 4: System Production</i>
+  <i>Figure 4: Performance Evaluation</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Figure 5: System Production</i>
 </p>
 
 
@@ -172,7 +181,7 @@ System efficiency is affected by various environmental factors. Hence, loss anal
 </p>
 
 <p align="center">
-  <i>Figure 5: Overall Losses of the system</i>
+  <i>Figure 6: Overall Losses of the system</i>
 </p>
 
 
