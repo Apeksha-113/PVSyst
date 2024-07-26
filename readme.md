@@ -42,9 +42,14 @@ Solar photovoltaic systems, made of semiconductor materials (e.g., silicon), con
 
 As the world is seeking cleaner and more sustainable methods of energy production, solar energy has become the focus. The widespread adoption of solar energy is reducing the dependency on fossil fuels, mitigating greenhouse gas emissions, and contributing to the global effort against climate change. Solar cells or photovoltaic cells can sunlight directly into electricity. These PV cells can be installed on various scales, from small household installations to large-scale solar farms that feed power into the grid.
 
-![Global Horizontal Irradiation Map - Nepal](./image_pv/GHI.jpg)
+<p align="center">
+  <img src="./image_pv/GHI.jpg" alt="Global Horizontal Irradiation Map - Nepal" width="80%">
+</p>
 
-`Figure 1: Global Horizontal Irradiation Map - Nepal`
+<p align="center">
+  <i>Figure 1: Global Horizontal Irradiation Map - Nepal</i>
+</p>
+
 
 ### 3.2. Components of a Grid-Connected Solar PV System
 
@@ -162,9 +167,14 @@ A performance evaluation of the solar PV system was conducted using PVSyst, whic
 
 System efficiency is affected by various environmental factors. Hence, loss analysis is essential to understand and mitigate the factors that reduce the overall efficiency of the solar PV system.
 
-![Losses](./image_pv/loss_diagram.png)
+<p align="center">
+  <img src="./image_pv/loss_diagram.png" alt="Losses" width="80%">
+</p>
 
-`Figure 5: Overall Losses of the system` 
+<p align="center">
+  <i>Figure 5: Overall Losses of the system</i>
+</p>
+
 
 ### 7.1. Simulation Results
 
