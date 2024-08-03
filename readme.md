@@ -202,3 +202,7 @@ The design and analysis of a 50 kW grid-connected solar PV system in Purba Amrit
 - Monu, T., & Vadhera, S. (2023, January). Optimum Tilt-Pitch Analysis and Design of 25kW Grid Connected Solar PV System using PVSyst Software. In 2023 International Conference for Advancement in Technology (ICONAT) (pp. 1-4). IEEE.
 - Ali, A., Shah, F., Khan, M., & Mehmood, F. (2019, February). Design & Analysis of Solar PV System for Sarhad University Peshawar. In 2019 International Conference on Engineering and Emerging Technologies (ICEET) (pp. 1-6). IEEE.
 - Parmar, J. (2023, September). Design, Simulation, and Analysis of 100kW Commercial Solar PV System in India. In 2023 3rd International Conference on Energy, Power and Electrical Engineering (EPEE) (pp. 90-95). IEEE.
+
+## Documentation
+
+You can view the full documentation [here](./Manipur_Project.VC0-Report.pdf).
